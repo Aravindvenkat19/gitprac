@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "gitprac"]
+	url = https://github.com/Aravindvenkat19/gitprac
+[remote "origin"]
+	url = https://github.com/Aravindvenkat19/pixel-carrers-responsive.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
